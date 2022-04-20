@@ -11,3 +11,8 @@
 * 'git status'- status of local workspace
 * 'git log'- show log of commits
 * 'git log --oneline'-show compact log of commits
+
+### Branching Commands
+*'git branch'- list local branches
+*'get branch branchName'- create branch
+*'git checkout branchName'- switch to branchName
