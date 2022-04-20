@@ -1,5 +1,5 @@
 ## Git Cheat Sheet
-
+hey this is the newBranch stuff
 ### Basic Commands
 * 'git init'- initialize a local repo
 * 'git add'- stage files/folders for commit
